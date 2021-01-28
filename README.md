@@ -7,7 +7,7 @@
 
 项目本意只想方便自己，后来发现需求的人比较多，因此开源。
 
-有些人反映cookie时效问题。自行手机或平板抓app的authcookie(访问个人中心那一块可以抓到 另外抓包app是苹果thor或stream 安卓小黄鸟)，自用ipad抓的authcookie目前3个月还未失效
+有些人反映cookie时效问题。自行手机或平板抓app的authcookie(访问(个人中心-会员-支付记录)那一块可以抓到 另外抓包app是苹果thor或stream 安卓小黄鸟)，自用ipad抓的authcookie目前3个月还未失效
 
 觉得好用给个Star吧~
 
@@ -41,5 +41,4 @@
 
   ![cron](https://github.com/chengquanomg/iqy_checkin/blob/master/images/cron.png)
 
-### 交流群号：1091479780
 
